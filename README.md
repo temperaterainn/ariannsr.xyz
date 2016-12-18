@@ -1,2 +1,2 @@
 # ariannsr.xyz
-Arian Nasr's Personal Website
+Arian Nasr's Website
